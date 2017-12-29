@@ -1,0 +1,22 @@
+.jumbotron {
+  width: 100%;
+  position: relative;
+  margin-top: 25px;
+  margin-bottom: 25px;
+
+  h1 {
+    font-family: bol;
+    font-size: 40px;
+    color: #424242;
+    margin: 0;
+    margin-left: 30px;
+    padding: 34px 0;
+  }
+
+  img {
+    position: absolute;
+    right: 30px;
+    top: 0;
+    height: 167px;
+  }
+}

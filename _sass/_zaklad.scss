@@ -2,14 +2,19 @@
 
 fonts
 
-*****************************************
+*****************************************/
 
 @font-face {
-    font-family: "neco";
-    src: url("../fonts/GothamRounded-Book.otf");
+  font-family: "reg";
+  src: url("../fonts/HelveticaNeue-02.ttf");
 }
 
-*****************************************
+@font-face {
+  font-family: "bol";
+  src: url("../fonts/HelveticaNeue-Bold-01.ttf");
+}
+
+/*****************************************
 
 colors
 

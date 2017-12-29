@@ -2568,14 +2568,14 @@ th {
 
 fonts
 
-*****************************************
-
+*****************************************/
 @font-face {
-    font-family: "neco";
-    src: url("../fonts/GothamRounded-Book.otf");
-}
-
-*****************************************
+  font-family: "reg";
+  src: url("../fonts/HelveticaNeue-02.ttf"); }
+@font-face {
+  font-family: "bol";
+  src: url("../fonts/HelveticaNeue-Bold-01.ttf"); }
+/*****************************************
 
 colors
 
@@ -2587,3 +2587,77 @@ defaults
 *****************************************/
 h1, h2, h3, h4, h5, p, span, a {
   font-weight: normal !important; }
+
+footer {
+  width: 100%; }
+  footer div {
+    width: 100%;
+    height: 140px; }
+  footer .social {
+    width: 100%;
+    position: relative;
+    height: 140px; }
+    footer .social a div {
+      width: 50%;
+      position: absolute;
+      top: 0;
+      height: 140px; }
+    footer .social a:first-child div {
+      left: 0; }
+    footer .social a:last-child div {
+      right: 0; }
+  footer .twitter {
+    background: #0f92e3;
+    background: -moz-radial-gradient(at left bottom, #0f92e3, #43b4f9);
+    background: -webkit-radial-gradient(at left bottom, #0f92e3, #43b4f9);
+    background: radial-gradient(at left bottom, #0f92e3, #43b4f9);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0f92e3', endColorstr='#43b4f9',GradientType=1 );
+    /* IE6-9 fallback on horizontal gradient */ }
+  footer .palmmedia {
+    background: #333333;
+    background: -moz-radial-gradient(at center top, #333333, #252525);
+    background: -webkit-radial-gradient(at center top, #333333, #252525);
+    background: radial-gradient(at center top, #333333, #252525);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#333333', endColorstr='#252525',GradientType=1 );
+    /* IE6-9 fallback on horizontal gradient */ }
+  footer .arkun {
+    background: #333333;
+    background: -moz-radial-gradient(at center top, #7DA5EC, #476CD4);
+    background: -webkit-radial-gradient(at center top, #7DA5EC, #476CD4);
+    background: radial-gradient(at center top, #7DA5EC, #476CD4);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#7DA5EC', endColorstr='#476CD4',GradientType=1 );
+    /* IE6-9 fallback on horizontal gradient */ }
+  footer .impossible {
+    background: #FFD500;
+    background: -moz-radial-gradient(at right bottom, #FFD500, #FFE300);
+    background: -webkit-radial-gradient(at right bottom, #FFD500, #FFE300);
+    background: radial-gradient(at right bottom, #FFD500, #FFE300);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#FFD500', endColorstr='#FFE300',GradientType=1 );
+    /* IE6-9 fallback on horizontal gradient */ }
+  footer .mail {
+    background: #D5FFFE;
+    background: -moz-radial-gradient(at left bottom, #D5FFFE, #E1FFD2);
+    background: -webkit-radial-gradient(at left bottom, #D5FFFE, #E1FFD2);
+    background: radial-gradient(at left bottom, #D5FFFE, #E1FFD2);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#D5FFFE', endColorstr='#E1FFD2',GradientType=1 );
+    /* IE6-9 fallback on horizontal gradient */ }
+  footer .lanistae {
+    background: #ECF4FF; }
+
+.jumbotron {
+  width: 100%;
+  position: relative;
+  margin-top: 25px;
+  margin-bottom: 25px; }
+  .jumbotron h1 {
+    font-family: bol;
+    font-size: 40px;
+    color: #424242;
+    margin: 0;
+    margin-left: 30px;
+    padding: 34px 0; }
+  .jumbotron img {
+    position: absolute;
+    right: 30px;
+    top: 0;
+    height: 167px; }

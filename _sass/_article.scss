@@ -1,0 +1,126 @@
+.article {
+  .getmeback {
+    margin-left: 20px;
+    margin-top: 0;
+    margin-bottom: 20px;
+    padding-top: 20px;
+
+    a {
+      text-decoration: none;
+      color: #4A4A4A;
+      font-size: 17px;
+      font-family: bol;
+    }
+  }
+
+  .greenColor {
+    background: #BEFFDE;
+  }
+
+  .yellowColor {
+    background: #FDFFAA;
+  }
+
+  .blueColor {
+    background: #BEE6FF;
+
+    h1 {
+      line-height: 52px;
+      padding-top: 17px;
+    }
+  }
+
+  header {
+    padding-bottom: 30px;
+
+    h1 {
+      margin-left: 20px;
+      margin-top: 0;
+      padding-top: 25px;
+      font-size: 39px;
+      color: #1D1D1D;
+      font-family: bol;
+      line-height: 37px;
+      margin-bottom: 0;
+      width: calc(100% - 40px);
+    }
+
+    h2 {
+      margin-left: 20px;
+      margin-top: 15px;
+      font-size: 19px;
+      line-height: 28px;
+      width: calc(100% - 40px);
+      color: #1D1D1D;
+      margin-bottom: 0;
+    }
+  }
+
+  section {
+    margin-top: 30px;
+
+    h3 {
+      font-family: bol;
+      font-size: 23px;
+      width: calc(100% - 40px);
+      margin-left: 20px;
+      margin-top: 30px;
+      margin-bottom: 20px;
+    }
+
+    ul {
+      width: calc(100% - 80px);
+      margin-left: 60px;
+      padding: 0;
+
+      li {
+        font-size: 13px;
+        line-height: 19px;
+        margin-bottom: 1px;
+        padding-left: 10px;
+
+        ul {
+          margin-left: 0;
+          width: auto;
+
+          li {
+            list-style: none;
+            padding: 0;
+
+            &::before {
+              content: "-";
+              margin-right: 20px;
+            }
+          }
+        }
+      }
+    }
+
+    p {
+      font-size: 13px;
+      line-height: 19px;
+      width: calc(100% - 40px);
+      margin-left: 20px;
+
+      &:last-child {
+        margin-bottom: 50px;
+      }
+    }
+
+    .picture {
+      border: 4px solid #9B9B9B;
+      width: calc(100% - 32px);
+      margin: 0 auto;
+      display: block;
+      margin-top: 30px;
+      margin-bottom: 30px;
+
+      img {
+        border: 5px solid white;
+        width: calc(100% - 10px);
+        margin: 0 auto;
+        margin-bottom: -4px;
+      }
+    }
+  }
+}

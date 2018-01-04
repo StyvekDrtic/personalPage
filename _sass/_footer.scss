@@ -1,14 +1,20 @@
 footer {
   width: 100%;
+  max-width: 640px;
+  margin: 0 auto;
 
   div {
     width: 100%;
     height: 140px;
     position: relative;
+
+    @media screen and (min-width: 670px) {
+      width: 320px;
+    }
   }
 
   .social {
-    width: 100%;
+    float: left;
     position: relative;
     height: 140px;
 
@@ -62,6 +68,7 @@ footer {
   }
 
   .palmmedia {
+    float: right;
     background: #333333;
     background: -moz-radial-gradient(at center top, #333333, #252525);
     background: -webkit-radial-gradient(at center top, #333333, #252525);
@@ -92,6 +99,7 @@ footer {
   }
 
   .arkun {
+    float: left;
     background: #333333;
     background: -moz-radial-gradient(at center top, #7DA5EC, #476CD4);
     background: -webkit-radial-gradient(at center top, #7DA5EC, #476CD4);
@@ -108,6 +116,7 @@ footer {
   }
 
   .impossible {
+    float: right;
     background: #FFD500;
     background: -moz-radial-gradient(at right bottom, #FFD500, #FFE300);
     background: -webkit-radial-gradient(at right bottom, #FFD500, #FFE300);
@@ -143,6 +152,7 @@ footer {
   }
 
   .mail {
+    float: right;
     background: #D5FFFE;
     background: -moz-radial-gradient(at left bottom, #D5FFFE, #E1FFD2);
     background: -webkit-radial-gradient(at left bottom, #D5FFFE, #E1FFD2);
@@ -159,6 +169,7 @@ footer {
   }
 
   .lanistae {
+    float: left;
     background: #ECF4FF;
 
     .lanistaeBg {
@@ -179,6 +190,40 @@ footer {
       position: relative;
       margin-left: calc(50% - 100px/2);
       margin-top: calc((140px - 47.37px)/2)
+    }
+  }
+
+  @media screen and (min-width: 670px) {
+    height: 420px;
+    margin-bottom: 50px;
+  }
+
+  @media screen and (min-width: 990px) {
+    max-width: 960px;
+    height: 280px;
+  }
+}
+
+.homepage {
+  footer {
+    div {
+      @media screen and (min-width: 640px) {
+        width: 320px;
+      }
+    }
+
+    @media screen and (min-width: 640px) {
+      height: 420px;
+      margin-bottom: 50px;
+    }
+
+    @media screen and (min-width: 960px) {
+      max-width: 960px;
+      height: 280px;
+      position: absolute;
+      bottom: 50px;
+      right: calc((100% - 960px)/2);
+      margin-bottom: 0;
     }
   }
 }

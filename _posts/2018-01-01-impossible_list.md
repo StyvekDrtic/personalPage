@@ -68,3 +68,4 @@ Vegan asymmetrical glossier art party hella banh mi tilde craft beer VHS roof pa
 * Get a motor-boat driver's license
     * Get a yacht driver's license
 * Scuba diving license
+* Get a gun

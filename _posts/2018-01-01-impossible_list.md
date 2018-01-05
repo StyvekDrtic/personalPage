@@ -5,7 +5,7 @@ description: "Imma do dis"
 date: 2018-01-01
 color: blueColor
 ---
-Vegan asymmetrical glossier art party hella banh mi tilde craft beer VHS roof party readymade. Typewriter asymmetrical shoreditch kale chips, affogato etsy food truck prism. Mustache shoreditch blue bottle activated charcoal copper mug, drinking vinegar actually bicycle rights swag listicle vice cred hammock. Slow-carb craft beer chia enamel pin, health goth truffaut +1 salvia quinoa. Church-key kombucha brunch, raclette tousled subway tile seitan swag disrupt cloud bread readymade. Tilde crucifix live-edge leggings banh mi next level actually polaroid synth.
+Basically, this is a list of things that I think are impossible for me to do right now. It's pretty similar to a bucket list but the goals on this one may sometimes lead to a better, more ambitious goals. It would be really cool if I can do all of these things this year, I'm pretty sure that 2018 is gonna be my best year yet.
 
 
 <h3>Health and fitness</h3>
@@ -59,6 +59,7 @@ Vegan asymmetrical glossier art party hella banh mi tilde craft beer VHS roof pa
 <h3>Personal</h3>
 
 * Grow long hair
+* Graduate high school in the USA
 * Get a tattoo
 * Get a driver’s license
     * Driver’s license for a motorbike

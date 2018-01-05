@@ -43,18 +43,16 @@ Vegan asymmetrical glossier art party hella banh mi tilde craft beer VHS roof pa
     * 500 followers
     * 1000 followers
     * first Influencer deal
-* PalmMedia
+* Start my own marketing agency
     * First client
-    * 10k CZK
-    * 100k CZK
-    * 200k CZK
-    * 500k CZK
-    * 1 000 000 CZK
     * Single project worth over 20k CZK
     * Single project worth over 30k CZK
     * Single project worth over 50k CZK
     * Single project worth over 100k CZK
     * Single project worth over 200k CZK
+* Put 100k CZK into the bank
+    * 200k
+    * 500k
 * Record a podcast
 * Write at least one medium post
 

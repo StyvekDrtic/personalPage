@@ -11,7 +11,7 @@ Lorem ipsum dolor amet wolf edison bulb snackwave, everyday carry taiyaki plaid 
 Vegan asymmetrical glossier art party hella banh mi tilde craft beer VHS roof party readymade. Typewriter asymmetrical shoreditch kale chips, affogato etsy food truck prism. Mustache shoreditch blue bottle activated charcoal copper mug, drinking vinegar actually bicycle rights swag listicle vice cred hammock. Slow-carb craft beer chia enamel pin, health goth truffaut +1 salvia quinoa. Church-key kombucha brunch, raclette tousled subway tile seitan swag disrupt cloud bread readymade. Tilde crucifix live-edge leggings banh mi next level actually polaroid synth.
 
 <div class="picture">
-<img src="http://localhost:4000/assets/img/palmmediaArticle.png" alt="that's where I wish to work">
+<img src="assets/img/palmmediaArticle.png" alt="that's where I wish to work">
 </div>
 
 Disrupt taxidermy kogi meditation church-key. Occupy trust fund 90's williamsburg jean shorts. IPhone wolf green juice vice, af sustainable photo booth jean shorts mlkshk chia retro succulents church-key bicycle rights edison bulb. 8-bit cliche farm-to-table deep v, pour-over hoodie austin occupy cardigan venmo vegan pitchfork.

@@ -5,7 +5,9 @@ description: "Imma do dis"
 date: 2018-01-01
 color: blueColor
 ---
-Basically, this is a list of things that I think are impossible for me to do right now. It's pretty similar to a bucket list but the goals on this one may sometimes lead to a better, more ambitious goals. It would be really cool if I can do all of these things this year, I'm pretty sure that 2018 is gonna be my best year yet.
+This is a list of things I think are impossible for me to do right now and they're about to be all done by the end of this year. It's pretty similar to a bucket list but the goals on this one may sometimes lead to a better, more ambitious goals.
+
+I'm pretty sure that 2018 is gonna be my best year yet.
 
 
 <h3>Health and fitness</h3>

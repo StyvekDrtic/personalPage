@@ -1,3 +1,86 @@
+.greenColor {
+  ::-moz-selection {
+    background: lighten(#0032FF, 30);
+  }
+
+  ::selection {
+    background: lighten(#0032FF, 30);
+  }
+
+  header {
+    background: #BEFFDE;
+  }
+
+  .article {
+    section {
+      a {
+        background: lighten(#0032FF, 30);
+        color: black;
+        text-decoration: none;
+        padding-top: 2px;
+        padding-bottom: 2px;
+      }
+    }
+  }
+}
+
+.yellowColor {
+  ::-moz-selection {
+    background: lighten(#FF5500, 30);
+  }
+
+  ::selection {
+    background: lighten(#FF5500, 30);
+  }
+
+  header {
+    background: #FDFFAA;
+  }
+
+  .article {
+    section {
+      a {
+        background: lighten(#FF5500, 30);
+        color: black;
+        text-decoration: none;
+        padding-top: 2px;
+        padding-bottom: 2px;
+      }
+    }
+  }
+}
+
+.blueColor {
+  ::-moz-selection {
+    background: lighten(#E700FF, 30);
+  }
+
+  ::selection {
+    background: lighten(#E700FF, 30);
+  }
+
+  header {
+    background: #BEE6FF;
+
+    h1 {
+      line-height: 52px;
+      padding-top: 17px;
+    }
+  }
+
+  .article {
+    section {
+      a {
+        background: lighten(#E700FF, 30);
+        color: black;
+        text-decoration: none;
+        padding-top: 2px;
+        padding-bottom: 2px;
+      }
+    }
+  }
+}
+
 .article {
   .getmeback {
     margin-left: 20px;
@@ -16,23 +99,6 @@
       margin-left: 0;
       margin-bottom: 30px;
       padding-top: 30px;
-    }
-  }
-
-  .greenColor {
-    background: #BEFFDE;
-  }
-
-  .yellowColor {
-    background: #FDFFAA;
-  }
-
-  .blueColor {
-    background: #BEE6FF;
-
-    h1 {
-      line-height: 52px;
-      padding-top: 17px;
     }
   }
 
@@ -80,6 +146,10 @@
       margin-left: 20px;
       margin-top: 30px;
       margin-bottom: 20px;
+    }
+
+    a {
+
     }
 
     ul {

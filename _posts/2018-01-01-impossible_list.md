@@ -13,6 +13,7 @@ I'm pretty sure that 2018 is gonna be my best year yet.
 <h3>Health and fitness</h3>
 
 * Gain weight
+    * <span class="skrt">80kg</span>
     * 85kg
     * 90kg
 * Golf

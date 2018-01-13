@@ -1,7 +1,7 @@
 ---
 layout: article
 title:  "PalmMedia"
-description: "Let’s make you shine!"
+description: "Pushing you beyond the standards"
 date: 2018-01-01
 color: yellowColor
 ---

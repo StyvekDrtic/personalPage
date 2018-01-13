@@ -2832,6 +2832,8 @@ footer {
   padding-top: 2px;
   padding-bottom: 2px; }
 
+.article .skrt {
+  text-decoration: line-through; }
 .article .getmeback {
   margin-left: 20px;
   margin-top: 0;

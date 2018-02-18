@@ -7,13 +7,4 @@
     "streamUrl": "https://raw.githubusercontent.com/StyvekDrtic/personalPage/master/alexa/content/testik2.mp3",
     "redirectionUrl": "http://jiristepanek.com/"
   }
-
-  {
-    "uid": "urn:uuid:719e1b67-514b-4e8d-9b0a-beda8c9b1db4",
-    "updateDate": "2018-02-18T13:45:51.0Z",
-    "titleText": "Druhej klip",
-    "mainText": "I love cookies",
-    "streamUrl": "https://raw.githubusercontent.com/StyvekDrtic/personalPage/master/alexa/content/testik.mp3",
-    "redirectionUrl": "http://jiristepanek.com/"
-  }
 ]

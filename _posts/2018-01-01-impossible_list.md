@@ -45,7 +45,6 @@ I'm pretty sure that 2018 is gonna be my best year yet.
 * Personal Instagram
     * 500 followers
     * 1000 followers
-    * first Influencer deal
 * Start my own marketing agency
     * First client
     * Single project worth over 20k CZK
@@ -56,8 +55,8 @@ I'm pretty sure that 2018 is gonna be my best year yet.
 * Put 100k CZK into the bank
     * 200k
     * 500k
-* Record a podcast
-* Write at least one medium post
+* <span class="skrt">Record a podcast</span>
+* Make a video on YouTube
 
 <h3>Personal</h3>
 

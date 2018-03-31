@@ -29,7 +29,7 @@ I'm pretty sure that 2018 is gonna be my best year yet.
     * 4 months in a row
     * 6 months in a row
 * Running
-    * run 10km - 3 days in a row
+    * <span class="skrt">run 10km - 3 days in a row</span>
     * run 15km
     * half marathon
     * 30km

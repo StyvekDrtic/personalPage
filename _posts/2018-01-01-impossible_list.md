@@ -24,7 +24,7 @@ I'm pretty sure that 2018 is gonna be my best year yet.
     * HCP under 5
 * Meditate
     * <span class="skrt">10 days in a row</span>
-    * 1 month in a row
+    * <span class="skrt">1 month in a row</span>
     * 2 months in a row
     * 4 months in a row
     * 6 months in a row

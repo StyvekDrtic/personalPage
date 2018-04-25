@@ -115,6 +115,21 @@ footer {
     }
   }
 
+  .stredniVUSA {
+    float: left;
+    background-image: -webkit-linear-gradient(top left, #FFFFFF 0%, #FBFBFB 57%, #F8F8F8 96%, #F8F8F8 100%);
+    background-image: -o-linear-gradient(top left, #FFFFFF 0%, #FBFBFB 57%, #F8F8F8 96%, #F8F8F8 100%);
+    background-image: linear-gradient(to bottom right, #FFFFFF 0%, #FBFBFB 57%, #F8F8F8 96%, #F8F8F8 100%);
+
+      .ikonka {
+        width: 215px;
+        z-index: 2;
+        position: relative;
+        margin-left: calc(50% - 215px/2);
+        margin-top: calc((140px - 45px)/2)
+      }
+    }
+
   .impossible {
     float: right;
     background: #FFD500;

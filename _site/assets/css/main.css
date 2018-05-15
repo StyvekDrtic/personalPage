@@ -2714,7 +2714,6 @@ footer {
       right: 0;
       width: 75px; }
   footer .mail {
-    float: right;
     background: #D5FFFE;
     background: -moz-radial-gradient(at left bottom, #D5FFFE, #E1FFD2);
     background: -webkit-radial-gradient(at left bottom, #D5FFFE, #E1FFD2);
@@ -2727,6 +2726,32 @@ footer {
       position: relative;
       margin-left: calc(50% - 42px/2);
       margin-top: calc((140px - 33px)/2); }
+  footer .youtube {
+    background: #FF3A3A;
+    background: -moz-radial-gradient(at left bottom, #FF5252, #A50000);
+    background: -webkit-radial-gradient(at left bottom, #FF5252, #A50000);
+    background: radial-gradient(at left bottom, #FF5252, #A50000);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#FF5252', endColorstr='#A50000',GradientType=1 );
+    /* IE6-9 fallback on horizontal gradient */ }
+    footer .youtube .ikonka {
+      width: 50px;
+      z-index: 2;
+      position: relative;
+      margin-left: calc(50% - 50px/2);
+      margin-top: calc((140px - 35px)/2); }
+  footer .dvojitaBunka {
+    float: right;
+    position: relative;
+    height: 140px; }
+    footer .dvojitaBunka a div {
+      width: 50%;
+      position: absolute;
+      top: 0;
+      height: 140px; }
+    footer .dvojitaBunka a:first-child div {
+      left: 0; }
+    footer .dvojitaBunka a:last-child div {
+      right: 0; }
   footer .lanistae {
     float: left;
     background: #ECF4FF; }

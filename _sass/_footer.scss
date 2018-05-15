@@ -167,7 +167,6 @@ footer {
   }
 
   .mail {
-    float: right;
     background: #D5FFFE;
     background: -moz-radial-gradient(at left bottom, #D5FFFE, #E1FFD2);
     background: -webkit-radial-gradient(at left bottom, #D5FFFE, #E1FFD2);
@@ -180,6 +179,49 @@ footer {
       position: relative;
       margin-left: calc(50% - 42px/2);
       margin-top: calc((140px - 33px)/2)
+    }
+  }
+
+  .youtube {
+    background: #FF3A3A;
+    background: -moz-radial-gradient(at left bottom, #FF5252, #A50000);
+    background: -webkit-radial-gradient(at left bottom, #FF5252, #A50000);
+    background: radial-gradient(at left bottom, #FF5252, #A50000);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#FF5252', endColorstr='#A50000',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+
+    .ikonka {
+      width: 50px;
+      z-index: 2;
+      position: relative;
+      margin-left: calc(50% - 50px/2);
+      margin-top: calc((140px - 35px)/2)
+    }
+  }
+
+  .dvojitaBunka {
+    float: right;
+    position: relative;
+    height: 140px;
+
+    a {
+      div {
+        width: 50%;
+        position: absolute;
+        top: 0;
+        height: 140px;
+      }
+
+      &:first-child {
+        div {
+          left: 0;
+        }
+      }
+
+      &:last-child {
+        div {
+          right: 0;
+        }
+      }
     }
   }
 

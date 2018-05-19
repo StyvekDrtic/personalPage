@@ -68,7 +68,7 @@ footer {
   }
 
   .palmmedia {
-    float: right;
+    float: left;
     background: #333333;
     background: -moz-radial-gradient(at center top, #333333, #252525);
     background: -webkit-radial-gradient(at center top, #333333, #252525);
@@ -131,7 +131,7 @@ footer {
     }
 
   .impossible {
-    float: right;
+    float: left;
     background: #FFD500;
     background: -moz-radial-gradient(at right bottom, #FFD500, #FFE300);
     background: -webkit-radial-gradient(at right bottom, #FFD500, #FFE300);
@@ -167,6 +167,7 @@ footer {
   }
 
   .mail {
+    float: left;
     background: #D5FFFE;
     background: -moz-radial-gradient(at left bottom, #D5FFFE, #E1FFD2);
     background: -webkit-radial-gradient(at left bottom, #D5FFFE, #E1FFD2);
@@ -183,6 +184,7 @@ footer {
   }
 
   .youtube {
+    float: left;
     background: #FF3A3A;
     background: -moz-radial-gradient(at left bottom, #FF5252, #A50000);
     background: -webkit-radial-gradient(at left bottom, #FF5252, #A50000);
@@ -198,8 +200,24 @@ footer {
     }
   }
 
+  .audiozurnal {
+    background: url("../img/audiozurnal_pozadi.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    float: left;
+
+    .ikonka {
+      height: 20px;
+      z-index: 2;
+      position: relative;
+      margin-left: calc(50% - 173px/2);
+      margin-top: calc((140px - 20px)/2)
+    }
+  }
+
   .dvojitaBunka {
-    float: right;
+    float: left;
     position: relative;
     height: 140px;
 
@@ -276,9 +294,8 @@ footer {
 
     @media screen and (min-width: 960px) {
       max-width: 960px;
-      height: 280px;
+      height: 420px;
       position: absolute;
-      bottom: 50px;
       right: calc((100% - 960px)/2);
       margin-bottom: 0;
     }

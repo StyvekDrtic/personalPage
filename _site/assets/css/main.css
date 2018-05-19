@@ -2636,7 +2636,7 @@ footer {
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0f92e3', endColorstr='#43b4f9',GradientType=1 );
     /* IE6-9 fallback on horizontal gradient */ }
   footer .palmmedia {
-    float: right;
+    float: left;
     background: #333333;
     background: -moz-radial-gradient(at center top, #333333, #252525);
     background: -webkit-radial-gradient(at center top, #333333, #252525);
@@ -2685,7 +2685,7 @@ footer {
       margin-left: calc(50% - 215px/2);
       margin-top: calc((140px - 45px)/2); }
   footer .impossible {
-    float: right;
+    float: left;
     background: #FFD500;
     background: -moz-radial-gradient(at right bottom, #FFD500, #FFE300);
     background: -webkit-radial-gradient(at right bottom, #FFD500, #FFE300);
@@ -2714,6 +2714,7 @@ footer {
       right: 0;
       width: 75px; }
   footer .mail {
+    float: left;
     background: #D5FFFE;
     background: -moz-radial-gradient(at left bottom, #D5FFFE, #E1FFD2);
     background: -webkit-radial-gradient(at left bottom, #D5FFFE, #E1FFD2);
@@ -2727,6 +2728,7 @@ footer {
       margin-left: calc(50% - 42px/2);
       margin-top: calc((140px - 33px)/2); }
   footer .youtube {
+    float: left;
     background: #FF3A3A;
     background: -moz-radial-gradient(at left bottom, #FF5252, #A50000);
     background: -webkit-radial-gradient(at left bottom, #FF5252, #A50000);
@@ -2739,8 +2741,20 @@ footer {
       position: relative;
       margin-left: calc(50% - 50px/2);
       margin-top: calc((140px - 35px)/2); }
+  footer .audiozurnal {
+    background: url("../img/audiozurnal_pozadi.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    float: left; }
+    footer .audiozurnal .ikonka {
+      height: 20px;
+      z-index: 2;
+      position: relative;
+      margin-left: calc(50% - 173px/2);
+      margin-top: calc((140px - 20px)/2); }
   footer .dvojitaBunka {
-    float: right;
+    float: left;
     position: relative;
     height: 140px; }
     footer .dvojitaBunka a div {
@@ -2790,9 +2804,8 @@ footer {
 @media screen and (min-width: 960px) {
   .homepage footer {
     max-width: 960px;
-    height: 280px;
+    height: 420px;
     position: absolute;
-    bottom: 50px;
     right: calc((100% - 960px)/2);
     margin-bottom: 0; } }
 
@@ -2803,7 +2816,14 @@ footer {
   margin-bottom: 25px;
   max-width: 640px;
   margin-left: auto;
-  margin-right: auto; }
+  margin-right: auto;
+  /*
+    @media screen and (min-width: 960px) {
+      position: absolute;
+      top: calc((100vh - 330px)*0.3 - 50px);
+      left: calc(50% - 320px);
+    }
+  */ }
   .jumbotron h1 {
     font-family: bol;
     font-size: 40px;
@@ -2822,9 +2842,8 @@ footer {
         right: 130px; } }
   @media screen and (min-width: 960px) {
     .jumbotron {
-      position: absolute;
-      top: calc((100vh - 330px)*0.3 - 50px);
-      left: calc(50% - 320px); } }
+      margin-top: 50px;
+      margin-bottom: 50px; } }
 
 .greenColor ::-moz-selection {
   background: #99adff; }

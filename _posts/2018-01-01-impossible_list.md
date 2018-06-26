@@ -25,7 +25,7 @@ I'm pretty sure that 2018 is gonna be my best year yet.
 * Meditate
     * <span class="skrt">10 days in a row</span>
     * <span class="skrt">1 month in a row</span>
-    * 2 months in a row
+    * <span class="skrt">2 months in a row</span>
     * 4 months in a row
     * 6 months in a row
 * Running
@@ -45,8 +45,8 @@ I'm pretty sure that 2018 is gonna be my best year yet.
 * Personal Instagram
     * 500 followers
     * 1000 followers
-* Start my own marketing agency
-    * First client
+* <span class="skrt">Start my own marketing agency</span>
+    * <span class="skrt">First client</span>
     * Single project worth over 20k CZK
     * Single project worth over 30k CZK
     * Single project worth over 50k CZK
@@ -61,9 +61,9 @@ I'm pretty sure that 2018 is gonna be my best year yet.
 <h3>Personal</h3>
 
 * <span class="skrt">Grow long hair</span>
-* Graduate high school in the USA
-* Get a tattoo
-* Get a driver’s license
+* <span class="skrt">Graduate high school in the USA</span>
+* <span class="skrt">Get a tattoo</span>
+* Get a driver’s license (work in progress)
     * Driver’s license for a motorbike
     * Own a car
 * Get a motor-boat driver's license

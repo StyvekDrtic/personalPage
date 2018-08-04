@@ -14,7 +14,7 @@ I'm pretty sure that 2018 is gonna be my best year yet.
 
 * Gain weight
     * <span class="skrt">80kg</span>
-    * 85kg
+    * <span class="skrt">85kg</span>
     * 90kg
 * Golf
     * HCP under 30
@@ -63,6 +63,7 @@ I'm pretty sure that 2018 is gonna be my best year yet.
 * <span class="skrt">Grow long hair</span>
 * <span class="skrt">Graduate high school in the USA</span>
 * <span class="skrt">Get a tattoo</span>
+* <span class="skrt">Tandem jump</span>
 * Get a driver’s license (work in progress)
     * Driver’s license for a motorbike
     * Own a car

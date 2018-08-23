@@ -47,7 +47,7 @@ I'm pretty sure that 2018 is gonna be my best year yet.
     * 1000 followers
 * <span class="skrt">Start my own marketing agency</span>
     * <span class="skrt">First client</span>
-    * Single project worth over 20k CZK
+    * <span class="skrt">Single project worth over 20k CZK</span>
     * Single project worth over 30k CZK
     * Single project worth over 50k CZK
     * Single project worth over 100k CZK

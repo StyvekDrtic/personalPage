@@ -31,7 +31,7 @@ I'm pretty sure that 2018 is gonna be my best year yet.
 * Running
     * <span class="skrt">run 10km - 3 days in a row</span>
     * <span class="skrt">run 15km</span>
-    * half marathon
+    * <span class="skrt">half marathon/span>
     * 30km
     * marathon
 * Other sports

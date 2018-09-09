@@ -48,7 +48,7 @@ I'm pretty sure that 2018 is gonna be my best year yet.
 * <span class="skrt">Start my own marketing agency</span>
     * <span class="skrt">First client</span>
     * <span class="skrt">Single project worth over 20k CZK</span>
-    * Single project worth over 30k CZK
+    * <span class="skrt">Single project worth over 30k CZK</span>
     * Single project worth over 50k CZK
     * Single project worth over 100k CZK
     * Single project worth over 200k CZK
@@ -65,8 +65,8 @@ I'm pretty sure that 2018 is gonna be my best year yet.
 * <span class="skrt">Get a tattoo</span>
 * <span class="skrt">Tandem jump</span>
 * Get a driver’s license (work in progress)
-    * Driver’s license for a motorbike
-    * Own a car
+    * <span class="skrt">Driver’s license for a motorbike</span>
+    * <span class="skrt">Own a car</span>
 * Get a motor-boat driver's license
     * Get a yacht driver's license
 * Scuba diving license

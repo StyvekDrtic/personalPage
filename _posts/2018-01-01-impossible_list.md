@@ -64,7 +64,7 @@ I'm pretty sure that 2018 is gonna be my best year yet.
 * <span class="skrt">Graduate high school in the USA</span>
 * <span class="skrt">Get a tattoo</span>
 * <span class="skrt">Tandem jump</span>
-* Get a driver’s license (work in progress)
+* <span class="skrt">Get a driver’s license (3rd attempt)</span>
     * <span class="skrt">Driver’s license for a motorbike</span>
     * <span class="skrt">Own a car</span>
 * Get a motor-boat driver's license

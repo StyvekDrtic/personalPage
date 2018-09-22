@@ -35,6 +35,7 @@ I'm pretty sure that 2018 is gonna be my best year yet.
     * 30km
     * marathon
 * Other sports
+    * <span class="skrt">SixPack</span>
     * 200km on a bike
     * triathlon
     * Iron man
